@@ -1,2 +1,2 @@
 # itunes
-Glo academi intensive_itunes
+Glo academy intensive_itunes
